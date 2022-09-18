@@ -1,0 +1,103 @@
+			body{
+
+				background-color: silver;
+
+}
+			#givehere{
+
+				background-color: blue;
+				color: white;
+				border:none;
+				text-decoration: none;
+				font-family: sans-serif;
+				padding: 1px;
+
+}
+			#mainbutton{
+
+				background-color: white;
+				border: none;
+	
+}
+			#events{
+
+				border: none;
+				background-color: white;
+
+}
+			#newhere{
+
+				border: none;
+				background-color: white;
+	
+}
+			#contact{
+
+				border: none;
+				background-color: white;
+
+}
+			#kids{
+
+				border: none;
+				background-color: #333333;
+				color: white;
+				text-decoration: none;
+
+				
+}
+			#youth{
+
+				border: none;
+				background-color: #333333;
+				color: white;
+				text-decoration: none;
+
+}
+			#smallgroups{
+
+				border: none;
+				background-color: #333333;
+				color: white;
+				text-decoration: none;
+				
+}
+			#moments{
+
+				border: none;
+				background-color: white;
+
+}
+
+			#top{
+			
+				background-color: white;
+				
+}
+			#socialmedia{
+
+				background-color: white;
+
+}
+			#Current{
+
+				background-color: white;
+
+}
+			#Past{
+
+				background-color: white;
+
+}
+            #about{
+                background-color: white;
+                text-align: right;
+                padding: 13px;
+}
+            #center{
+                
+            text-align: center; 
+            background-color: white;
+            text-align: center;
+            position: relative;
+}

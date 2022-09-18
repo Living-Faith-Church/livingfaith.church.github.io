@@ -1,0 +1,27 @@
+			#socialmedia, #top{
+				padding-left: 15px;
+				padding-top: 1px;
+}			
+			#Foot{
+
+				background-color: #333333;
+				color: white;
+				position: sticky;
+				text-align: center;
+				padding: 15px;
+				font-family: comic sans ms;
+			}
+			#Foot a:link{
+				background-color: #333333;
+				color: white;
+				text-decoration: none;
+
+			}
+			#ministry{
+				text-align: center;
+				background-color: #333333;
+}
+			a: visited{
+				color: white;
+				background-color: #333333;
+			}
